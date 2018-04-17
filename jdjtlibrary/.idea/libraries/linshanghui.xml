@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="linshanghui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/linshanghui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

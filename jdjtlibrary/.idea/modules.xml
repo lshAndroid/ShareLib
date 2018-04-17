@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidAsync/AndroidAsync.iml" filepath="$PROJECT_DIR$/../AndroidAsync/AndroidAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TimeAntaeus.iml" filepath="$PROJECT_DIR$/../TimeAntaeus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../indicatorseekbar/indicatorseekbar.iml" filepath="$PROJECT_DIR$/../indicatorseekbar/indicatorseekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdjtlibrary.iml" filepath="$PROJECT_DIR$/jdjtlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multifilm/multifilm.iml" filepath="$PROJECT_DIR$/../multifilm/multifilm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplication/myapplication.iml" filepath="$PROJECT_DIR$/../myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycinema/mycinema.iml" filepath="$PROJECT_DIR$/../mycinema/mycinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myyunpan/myyunpan.iml" filepath="$PROJECT_DIR$/../myyunpan/myyunpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../socketClientAndroid/socketClientAndroid.iml" filepath="$PROJECT_DIR$/../socketClientAndroid/socketClientAndroid.iml" />
+    </modules>
+  </component>
+</project>

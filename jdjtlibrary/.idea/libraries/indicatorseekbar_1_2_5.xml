@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="indicatorseekbar-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../multifilm/build/intermediates/exploded-aar/com.github.warkiz.widget/indicatorseekbar/1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../multifilm/build/intermediates/exploded-aar/com.github.warkiz.widget/indicatorseekbar/1.2.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.warkiz.widget/indicatorseekbar/1.2.5/1e0dcba6aaa97d2f1eb19c00495eea8ca76625c/indicatorseekbar-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

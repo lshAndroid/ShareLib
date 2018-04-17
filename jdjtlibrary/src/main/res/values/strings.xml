@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JdjtLibrary</string>
+    <string name="net_without">网络无法连接</string>
+</resources>

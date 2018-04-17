@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--虚线颜色-->
+    <color name="line_gray">#dddddd</color>
+    <!--通用颜色-->
+    <color name="color_purple">#C146DD</color>
+    <color name="purple_deep">#6639D2</color>
+    <color name="color_yellow">#FF8111</color>
+    <color name="color_red">#FF2d00</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+
+    <color name="deep_blue">#019CDF</color>
+    <color name="light_blue">#46a3e7</color>
+    <color name="green_light">#56a122</color>
+    <color name="green_deep">#4aa657</color>
+    <color name="yellow_light">#ffab5a</color>
+    <color name="yellow_deep">#F8B600</color>
+    <color name="red_light">#fe6a78</color>
+    <color name="red_deep">#E61874</color>
+    <color name="gray_deep">#555555</color>
+    <color name="color_pink">#E61874</color>
+    <color name="light_gray">#8E8E8E</color>
+    <!--文字主题颜色-->
+    <color name="title_main">#333333</color>
+    <color name="title_sub">#7B7B7B</color>
+    <color name="title_input">#666688</color>
+    <color name="input_black">#666666</color>
+    <!--半透明-->
+    <color name="glass_gray">#70bbbbbb</color>
+    <color name="glass_gray_deep">#90000000</color>
+    <color name="glass_white">#70FFFFFF</color>
+    <color name="glass97_white">#97FFFFFF</color>
+
+
+
+</resources>

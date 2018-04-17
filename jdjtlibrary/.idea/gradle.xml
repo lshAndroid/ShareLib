@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../AndroidAsync" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../indicatorseekbar" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../multifilm" />
+            <option value="$PROJECT_DIR$/../myapplication" />
+            <option value="$PROJECT_DIR$/../mycinema" />
+            <option value="$PROJECT_DIR$/../myyunpan" />
+            <option value="$PROJECT_DIR$/../socketClientAndroid" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

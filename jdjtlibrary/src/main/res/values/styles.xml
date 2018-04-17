@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 5.0的对话框样式-->
+    <style name="CustomAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColorPrimary">@color/title_main</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/title_input</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorAccent">@color/deep_blue</item>
+    </style>
+    <!-- 设置这个背景后，控件会带有波纹效果-->
+    <style name="WidgetBackground">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+    <!-- 宽度沾满屏幕的水平灰色线条 -->
+    <style name="level_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/line_gray</item>
+    </style>
+
+    <!--通用的宽高(开始)-->
+    <style name="wrap_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="match_match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="wrap_match">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="match_wrap">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!--通用的宽高(结束)-->
+
+
+
+
+
+</resources>
